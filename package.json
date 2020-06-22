@@ -1,0 +1,22 @@
+{
+  "name": "um",
+  "version": "1.0.0",
+  "description": "User management data api",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "boom": "^7.3.0",
+    "dotenv": "^8.2.0",
+    "knex": "^0.21.1",
+    "objection": "^2.2.0",
+    "path": "^0.12.7",
+    "pg": "^8.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sonya",
+  "license": "ISC"
+}
